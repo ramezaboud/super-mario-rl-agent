@@ -1,0 +1,10 @@
+gym==0.21.0
+gym-notices==0.0.8
+gym-super-mario-bros==7.3.0
+nes-py==8.1.8
+numpy==1.26.4
+stable_baselines3==2.7.1
+torch==2.5.1
+torchaudio==2.5.1
+torchvision==0.20.1
+tensorboard==2.20.0
