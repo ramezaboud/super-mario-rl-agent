@@ -1,2 +1,2 @@
 # GitHub Linguist configuration
-# No overrides needed — let GitHub detect languages naturally
+*.ipynb linguist-detectable=false
